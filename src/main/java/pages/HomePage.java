@@ -23,4 +23,6 @@ public class HomePage {
 		enrollButton.click();
 		Thread.sleep(4000);
 	}
+	
+	// new methods are on the way
 }
